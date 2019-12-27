@@ -20,5 +20,24 @@ Se limpia y transforma los tipos de datos, observamos cuales son las variables c
 
 el resultado se puede apreciar gráficamente así, sin embargo, los outputs del sistema serían datos los cuales utiliza el Web developer para dibujar sus gráficas:
 
-![Gráfica por día](https://github.com/rogerzadi/Clusterizaci-n_clientes_retail/blob/master/images/cluster_hora.JPG)
+### Tabla día
+
+![Gráfica por día](https://github.com/rogerzadi/Clusterizacion_no_supervisada_clientes/blob/master/images/cluster_hora.JPG)
+
+En esta tabla podemos ver a que dia van mas los diferentes tipos de clientes, podemos observar que en general los sabados son los mas visitados o por ejemplo los clientes que van mas los viernes son los del primer cluster 
+
+### Tabla Hora
+
+![Gráfica por día](https://github.com/rogerzadi/Clusterizacion_no_supervisada_clientes/blob/master/images/cluster_dia.JPG)
+
+Podemos ver a que hora van mas los distintos tipos de clientes, por ejemplo podemos enfocar o personalizar todas nuestras estratégias de venta a los clientes tipo 2 a las 10 am ya que son mas del 90% de los clientes los que van a esa hora 
+
+### Items más comprados
+
+![Gráfica por día](https://github.com/rogerzadi/Clusterizacion_no_supervisada_clientes/blob/master/images/mas_compra.JPG)
+
+Estos son los Items que mas compran los distintos tipos de clientes, por ejemplo, podemos dar un descuento a la Frittata a los clientes tipo 1 en la compra de un café.
+
+Podemos ver la Plataforma creada por Eduardo Chavez Colorado en este [link.](http://crecemass.herokuapp.com/metricas)
+
 
